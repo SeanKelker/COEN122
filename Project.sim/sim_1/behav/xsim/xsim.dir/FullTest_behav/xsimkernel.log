@@ -2,3 +2,6 @@ Running: xsim.dir/FullTest_behav/xsimk.exe -simmode gui -wdb FullTest_behav.wdb 
 Design successfully loaded
 Design Loading Memory Usage: 5732 KB (Peak: 5732 KB)
 Design Loading CPU Usage: 78 ms
+Simulation completed
+Simulation Memory Usage: 6432 KB (Peak: 6432 KB)
+Simulation CPU Usage: 765 ms

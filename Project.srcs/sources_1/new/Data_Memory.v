@@ -1,4 +1,4 @@
-module data(clk, read, write, adr, in, out);
+module Data_Memory(clk, read, write, adr, in, out);
     input clk, read, write;
     input [31:0] adr;
     input [31:0] in;
