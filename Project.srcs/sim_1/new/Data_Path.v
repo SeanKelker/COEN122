@@ -1,13 +1,7 @@
-module FullTest();
+module Data_Path();
 reg clk;
 wire [7:0] PC_out,PC_Buffer_out, PC_outBuff;
-wire [3:0] ALUop, ALUopBuff;
-wire RegWrt, MemtoReg, PCtoReg, BrNeg, BrZ, Jump, JumpMem, MemRead, MemWrt, RegWrtBuff, MemtoRegBuff, PCtoRegBuff, BrNegBuff, BrZBuff, JumpBuff, JumpMemBuff, MemReadBuff, MemWrtBuff, NegFlag, ZeroFlag, NegFlagBuff, ZeroFlagBuff, RegWrtBuff2, MemtoRegBuff2, PCtoRegBuff2, BrNegBuff2, BrZBuff2, JumpBuff2, JumpMemBuff2;
-wire [31:0] Instruction_Memory_out, PC_Mux_out, WBMuxOut, Instruction_Memory_outBuff, rsOut, rtOut, rsOutBuff, rtOutBuff, DataOut, ALUOut, ALUOutBuff, DataOutBuff, PC_outBuff2, PC_outBuff3;
-wire [5:0] rdOutBuff, rdOutBuff2;
-wire [31:0] SignExtOut, PCSignExtALUout;
-wire deadwire1, deadwire2, and1out, and2out, OrOut;
-
+wire [31:0] Instruction_Memory_out, PC_Mux_out, Instruction_Memory_outBuff;
 
 initial
 begin
