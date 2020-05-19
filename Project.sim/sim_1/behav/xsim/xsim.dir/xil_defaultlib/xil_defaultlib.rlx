@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/Sean/COEN122L/Project/Project.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/Sean/COEN122L/Project/Project.srcs/sim_1/new/Data_Path.v,1589920465,verilog,,,,FullTest,,,,,,,,
+C:/Users/Sean/COEN122L/Project/Project.srcs/sources_1/new/IF_ID_Buffer.v,1589919690,verilog,,C:/Users/Sean/COEN122L/Project/Project.srcs/sources_1/new/Mux.v,,IF_ID_Buffer,,,,,,,,
+C:/Users/Sean/COEN122L/Project/Project.srcs/sources_1/new/Instruction_Memory.v,1589917517,verilog,,C:/Users/Sean/COEN122L/Project/Project.srcs/sources_1/new/Mux.v,,instruction,,,,,,,,
+C:/Users/Sean/COEN122L/Project/Project.srcs/sources_1/new/Mux.v,1589917528,verilog,,C:/Users/Sean/COEN122L/Project/Project.srcs/sources_1/new/PC.v,,Mux,,,,,,,,
+C:/Users/Sean/COEN122L/Project/Project.srcs/sources_1/new/PC.v,1589319923,verilog,,C:/Users/Sean/COEN122L/Project/Project.srcs/sim_1/new/Data_Path.v,,PC,,,,,,,,
